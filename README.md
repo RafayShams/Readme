@@ -1,5 +1,5 @@
 # Readme
 
-I am passionate about coding.  I took a Web Development course from the Juno College of Technology and learned about HTML, CSS and Responsive Web Design
+I am passionate about coding and solving problems. I am well versed in creating responsibe web pages with a focus on accessibility.  Some of the skills I possess include HTML5, CSS3, Javascript, React, Rest APIs, Git and Firebase.  My projects are hosted live on netlify at https://www.rafayshams.com/
 
-I am currently enrolled in Web Development Bootcamp at Juno College of Technology where I will be learning HTML5, CSS3, ES6, Javascript, React, Rest APIs and Firebase
+Apart from coding, I enjoy playing chess and I am an avid cricket fan.  
